@@ -1,6 +1,5 @@
 package example.shoppingmall.repository;
 
-import example.shoppingmall.constant.ItemSellStatus;
 import example.shoppingmall.enitity.Item;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
@@ -96,4 +95,5 @@ class ItemRepositoryTest {
             System.out.println(item);
         }
     }
+
 }
